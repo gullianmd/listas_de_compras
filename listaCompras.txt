@@ -2,3 +2,5 @@ manzana
 pera
 Palta
 Tomate
+yogurt
+cereal
